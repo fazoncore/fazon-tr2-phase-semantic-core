@@ -1,5 +1,8 @@
 # FAZON · TR-2 Phase-Semantic Core · Research Release v1
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17641969.svg)](https://doi.org/10.5281/zenodo.17641969)
+
+
 This repository contains the **research-facing snapshot** of the FAZON TR-2
 phase-semantic observability stack. It is intended for:
 
