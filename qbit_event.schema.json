@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Q-Bit (quantum micro-event)",
+  "type": "object",
+  "properties": {
+    "ts": { "type": "string", "format": "date-time" },
+    "session_id": { "type": "string" },
+    "type": { "type": "string", "description": "e.g. phase_spike, coherence_drop" },
+    "psi": { "type": "number" },
+    "kappa_ls": { "type": "number" },
+    "rho_sem": { "type": "number" }
+  },
+  "required": ["ts", "session_id", "type"]
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work in your research, please cite it as below."
+title: "FAZON TR-2 Phase-Semantic Core · Research Release v1"
+authors:
+  - family-names: Goldman
+    given-names: Meir
+keywords:
+  - FAZON
+  - observability
+  - AI stability
+  - phase-semantic

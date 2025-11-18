@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Layer-S Telemetry Event",
+  "type": "object",
+  "properties": {
+    "ts": { "type": "string", "format": "date-time" },
+    "session_id": { "type": "string" },
+    "route": { "type": "string" },
+    "kappa_ls": { "type": "number" },
+    "rho_sem": { "type": "number" },
+    "latency_ms": { "type": "number" }
+  },
+  "required": ["ts", "session_id", "kappa_ls"]
+}

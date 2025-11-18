@@ -1,0 +1,19 @@
+{
+  "title": "FAZON TR-2 Phase-Semantic Core \u00b7 Research Release v1",
+  "description": "Research snapshot of the FAZON TR-2 phase-semantic observability stack.",
+  "creators": [
+    {
+      "name": "Goldman, Meir",
+      "affiliation": "FAZON Foundation"
+    }
+  ],
+  "keywords": [
+    "FAZON",
+    "observability",
+    "AI safety",
+    "phase-semantic",
+    "telemetry"
+  ],
+  "license": "proprietary",
+  "upload_type": "software"
+}
